@@ -80,8 +80,8 @@ body: const SingleChildScrollView(
 
 
       children: [
-  TitleSection(
-    name: 'Oeschinen Lake Campground',
+  TitleSection(    name: 'Oeschinen Lake Campground',
     location: 'Kandersteg, Switzerland',
   ),
 ],
+
